@@ -1,0 +1,23 @@
+{
+  "name": "monstermath",
+  "version": "1.0.0",
+  "description": "comments /r/theydidthemonstermath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryantran97/reddit-bot.git"
+  },
+  "author": "bryan tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryantran97/reddit-bot/issues"
+  },
+  "homepage": "https://github.com/bryantran97/reddit-bot#readme",
+  "dependencies": {
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.14.2"
+  }
+}
